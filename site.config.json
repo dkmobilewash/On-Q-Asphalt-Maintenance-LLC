@@ -1,0 +1,42 @@
+{
+  "_note": "All business details live here. Values listed in _placeholders are NOT real yet: replace them, then run `node build.js`.",
+  "_placeholders": [
+    "email",
+    "domain",
+    "hours",
+    "license",
+    "yearFounded",
+    "facebookUrl",
+    "googleReviewUrl"
+  ],
+  "name": "On Q Asphalt Maintenance LLC",
+  "shortName": "On Q Asphalt",
+  "tagline": "Quality over Quantity",
+  "owner": "Vincent Quintana",
+  "phone": "(505) 900-6295",
+  "phoneHref": "+15059006295",
+  "email": "info@onqasphalt.com",
+  "address": "1380 Rio Rancho Blvd SE",
+  "city": "Rio Rancho",
+  "state": "NM",
+  "zip": "87124",
+  "hours": "Hours: [PLACEHOLDER — add hours]",
+  "license": "NM License #000000",
+  "yearFounded": "[PLACEHOLDER — year founded]",
+  "domain": "https://www.onqasphalt.com",
+  "facebookUrl": "https://www.facebook.com/PLACEHOLDER-on-q-asphalt",
+  "googleReviewUrl": "https://www.google.com/maps/search/?api=1&query=On+Q+Asphalt+Maintenance+LLC+Rio+Rancho+NM",
+  "areaServed": [
+    "Rio Rancho",
+    "Corrales",
+    "Bernalillo",
+    "Placitas",
+    "Albuquerque",
+    "Los Ranchos de Albuquerque",
+    "Tijeras",
+    "Edgewood",
+    "Los Lunas",
+    "Belen",
+    "Bosque Farms"
+  ]
+}

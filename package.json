@@ -1,0 +1,11 @@
+{
+  "name": "on-q-asphalt-maintenance",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Website for On Q Asphalt Maintenance LLC — asphalt crack filling, sealcoating, repair and striping in Rio Rancho & Albuquerque, NM",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node build.js && npx --yes serve dist -l 3000",
+    "check": "node build.js && node scripts/check-reviews.js && node scripts/test-lead.js"
+  }
+}

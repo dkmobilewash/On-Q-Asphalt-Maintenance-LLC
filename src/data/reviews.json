@@ -1,0 +1,201 @@
+{
+  "_note": "Real Google reviews, word for word. Never edit `text` or `reply`. `excerpts` may only contain exact substrings of `text`; the build fails otherwise. Reviews with no text (Dominic Chavez, Octavio Jaquez) are left out on purpose.",
+  "reviews": [
+    {
+      "id": "michael-hogue",
+      "name": "Michael Hogue",
+      "text": "These guys did a great job resurrecting our parking lot. We had let it go way too long and this job cost us more than it would have if we had gotten the work done sooner. In spite of that, Vincent still gave us a fair price and the work was completed quickly. If only I had thought ahead and gotten good before photos of the damage and deterioration of our lot. I found only one from around 2 years ago and then tried to match it with an similar view of the after repair.",
+      "tags": [
+        "Reasonable price"
+      ],
+      "services": [
+        "Pavement crack filling & sealing",
+        "Parking lot striping"
+      ],
+      "reply": "Thank you Michael we appreciate your business 🙏",
+      "excerpts": {
+        "default": [
+          "These guys did a great job resurrecting our parking lot. We had let it go way too long and this job cost us more than it would have if we had gotten the work done sooner. In spite of that, Vincent still gave us a fair price and the work was completed quickly."
+        ],
+        "cost": [
+          "We had let it go way too long and this job cost us more than it would have if we had gotten the work done sooner. In spite of that, Vincent still gave us a fair price and the work was completed quickly."
+        ]
+      }
+    },
+    {
+      "id": "matthew-soto",
+      "name": "matthew soto",
+      "text": "On Q came highly recommended. I captured three bids for the proposed work and not only was On Q the least expensive but also provided references and photos of previous jobs along with context info for those folks to verify if needed. Work was done in a timely manner and they worked around our business operation schedule.",
+      "excerpts": {
+        "hero": [
+          "I captured three bids for the proposed work and not only was On Q the least expensive"
+        ],
+        "schedule": [
+          "Work was done in a timely manner and they worked around our business operation schedule."
+        ]
+      }
+    },
+    {
+      "id": "george-gagliarti-usmc",
+      "name": "George Gagliarti USMC",
+      "text": "I found Q Asphalt Maintenance while perusing Facebook, so I immediately sent them a message requesting a quote.\n\nI received a message back within a few hours, which I considered quite adequate for the type and quality of service they provide.\nThe owner himself came to my house, we discussed what I wanted done, he measured everything out, and was finished within a half hour.\nHe emailed me a copy of the quote, and as a Veteran of the United States Marine Corps, which he noted by the shirt that I was wearing, he also included a Military Discount. Most companies will not mention that unless you ask them.\nWe agreed on a date and time for the agreed upon work to be done. Unfortunately that day was cold and drizzling, so he called me well in advance and explained why he didn't want to do the work that day. We scheduled another appointment, and when that day came he called me and asked if he could come earlier than planned.\nUpon arrival he immediately began to sweep the area in preparation to make the appropriate repairs. I went back inside my house so that he could work without any distractions.\nI went back out as I noticed that he was nearing the completion of his work, and was securing his equipment.\nHe offered to come back if we noticed any issues. Other than a message from him on Facebook, asking how it was holding up, I haven't needed to call him.\nAs for my personal opinion, I would \"Highly and emphatically recommend Q Asphalt Maintenance LLC. No matter how big or small you may need done.\"",
+      "positive": [
+        "Responsiveness",
+        "Punctuality",
+        "Quality",
+        "Professionalism",
+        "Value"
+      ],
+      "services": [
+        "Asphalt resurfacing",
+        "Driveway repairs",
+        "Driveway sealing"
+      ],
+      "_replyOmitted": "The owner's reply addresses the reviewer by a different name, so it is intentionally not shown.",
+      "excerpts": {
+        "default": [
+          "I received a message back within a few hours",
+          "The owner himself came to my house, we discussed what I wanted done, he measured everything out, and was finished within a half hour.",
+          "He offered to come back if we noticed any issues. Other than a message from him on Facebook, asking how it was holding up, I haven't needed to call him."
+        ],
+        "military": [
+          "He emailed me a copy of the quote, and as a Veteran of the United States Marine Corps, which he noted by the shirt that I was wearing, he also included a Military Discount. Most companies will not mention that unless you ask them."
+        ],
+        "weather": [
+          "Unfortunately that day was cold and drizzling, so he called me well in advance and explained why he didn't want to do the work that day. We scheduled another appointment"
+        ],
+        "resurfacing": [
+          "The owner himself came to my house, we discussed what I wanted done, he measured everything out",
+          "Upon arrival he immediately began to sweep the area in preparation to make the appropriate repairs.",
+          "He offered to come back if we noticed any issues."
+        ]
+      }
+    },
+    {
+      "id": "jamie",
+      "name": "Jamie",
+      "text": "Did an awesome job. Very pleased with his work. Will continue using this business for future upkeep.",
+      "positive": [
+        "Quality",
+        "Professionalism",
+        "Value"
+      ],
+      "services": [
+        "Pavement crack filling & sealing",
+        "Sealcoating"
+      ],
+      "reply": "Thank you Jamie it was nice doing business with you."
+    },
+    {
+      "id": "r-and-pr",
+      "name": "r&pr",
+      "text": "vincent filled cracks and seal-coated our driveway, which was in much need of help. he was very attentive to detail and did an excellent job, especially considering the poor state of our driveway. we will be contacting him in the future for upkeep, crack filling, etc.",
+      "reply": "Thank you for your business and were glad your satisfied with our work."
+    },
+    {
+      "id": "molly-griffiths",
+      "name": "Molly Griffiths",
+      "text": "My driveway was looking pretty bad when Q Asphalt came and got it looking great again. These days it is very hard to find professional help that arrives on time and finishes the job but Q Asphalt is not one of those. Arrived on time and finished the job successfully! I highly recommend this company!! ***** 4/26/24 UPDATE: I am a return customer and once again Q Asphalt Maintenance did not let me down. High quality professional work.⭐️⭐️⭐️⭐️⭐️",
+      "positive": [
+        "Punctuality",
+        "Quality",
+        "Professionalism"
+      ],
+      "reply": "Thank you Ms. Molly for the review. On Q Asphalt looks forward to working with you in the future.",
+      "excerpts": {
+        "default": [
+          "My driveway was looking pretty bad when Q Asphalt came and got it looking great again.",
+          "Arrived on time and finished the job successfully! I highly recommend this company!!",
+          "I am a return customer and once again Q Asphalt Maintenance did not let me down. High quality professional work."
+        ]
+      }
+    },
+    {
+      "id": "samy-smith",
+      "name": "samy smith",
+      "text": "On Q did an amazing job on cleaning and putting down a protective coat. The work was clean, neat and made our driveway look new again. Definitely would recommend On Q for your asphalt maintenance needs.",
+      "reply": "Thank you Samy I'm glad On Q Asphalt met your needs and met your satisfaction."
+    },
+    {
+      "id": "jim-russell",
+      "name": "jim russell",
+      "text": "On Q Asphalt resealed the road in our development and did an outstanding job. They were professional, dedicated and responsive. We would use them again for our road maintenance and I highly recommend them to anyone.",
+      "reply": "Thank you Jim we appreciate your business."
+    },
+    {
+      "id": "chris-shain-tanner",
+      "name": "Chris Shain Tanner, REALTOR",
+      "text": "These folks did a great job to make the seal and crack repairs look great. Sadly, a little lizard met its demise during one of the crack repairs so that will have to get removed to make it look good but they were fast and effective and I would absolutely hire them again.",
+      "reply": "Thank you Shain for your feedback we greatly appreciate it.",
+      "excerpts": {
+        "default": [
+          "These folks did a great job to make the seal and crack repairs look great.",
+          "they were fast and effective and I would absolutely hire them again."
+        ]
+      }
+    },
+    {
+      "id": "larry-buck",
+      "name": "LARRY BUCK",
+      "text": "I called Q. Asphalt and spoke with Vincent about the mess another asphalt contractor left me with …He came by next day and and repaired my driveway within a couple of hours .. He will be resurfacing the driveway every two years… Thank-You Vincent …",
+      "reply": "Thank you Larry it was my pleasure."
+    },
+    {
+      "id": "hector-aguilar",
+      "name": "hector Aguilar",
+      "text": "Owner was excellent, on point.. our parking g lot turned out awesome Great work from Vicente and his staff Would recommend on Q . Thank you, Vicente!",
+      "positive": [
+        "Responsiveness",
+        "Punctuality",
+        "Quality",
+        "Professionalism",
+        "Value"
+      ],
+      "services": [
+        "Pavement crack filling & sealing",
+        "Driveway repairs",
+        "Driveway sealing",
+        "Parking lot repair & maintenance",
+        "Sealcoating"
+      ],
+      "reply": "Thank you for your feedback Hector. On Q Asphalt is about Quality over Quantity."
+    },
+    {
+      "id": "dru-tagliapietra",
+      "name": "Dru Tagliapietra",
+      "text": "Vincent Quintana takes pride in his work. Great work ethic. Great workmanship.",
+      "reply": "Thank you Dru for your feedback."
+    },
+    {
+      "id": "john-knight",
+      "name": "John Knight",
+      "text": "Very fine work, attentive and professional! Crack filing was effective using best product for the job!",
+      "reply": "Thank you John we appreciate you."
+    },
+    {
+      "id": "y-z",
+      "name": "y z",
+      "text": "Very professional company. My driveway looks really good."
+    },
+    {
+      "id": "joseph-chavez",
+      "name": "Joseph Chavez",
+      "text": "This company is really committed to getting the job done right the first time, with no if's and's, or but's about.",
+      "positive": [
+        "Professionalism"
+      ]
+    },
+    {
+      "id": "chris-hamill",
+      "name": "Chris Hamill",
+      "text": "Vincent was extremely knowledgeable and willing to go the extra mile. He discussed what would work best for our location and always communicated if there were any issues.",
+      "tags": [
+        "Reasonable price"
+      ],
+      "services": [
+        "Asphalt resurfacing",
+        "Parking lot repair & maintenance"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+<form class="lead-form" name="free-quote" method="POST" action="/api/lead">
+  <input type="hidden" name="form_name" value="Free on-site quote">
+  <p class="visually-hidden" aria-hidden="true"><label>Leave blank: <input name="company" tabindex="-1" autocomplete="off"></label></p>
+  <!-- CONFIRM: free quotes -->
+  <h3 class="lead-form__title">Get your free on-site quote</h3>
+  <p class="lead-form__sub">Vincent comes out, measures, and emails you a written quote.</p>
+  <div class="form-row">
+    <label>First name<input type="text" name="first_name" autocomplete="given-name" required></label>
+    <label>Last name<input type="text" name="last_name" autocomplete="family-name"></label>
+  </div>
+  <div class="form-row">
+    <label>Phone<input type="tel" name="phone" autocomplete="tel" required></label>
+    <label>Email<input type="email" name="email" autocomplete="email"></label>
+  </div>
+  <label>Property address or ZIP<input type="text" name="address" autocomplete="street-address" placeholder="e.g. 123 Main St, Rio Rancho or 87124"></label>
+  <div class="form-row">
+    <label>Property type
+      <select name="property_type">
+        <option>Home driveway</option>
+        <option>Business parking lot</option>
+        <option>HOA or private road</option>
+        <option>Other</option>
+      </select>
+    </label>
+    <label>Approximate size
+      <select name="size">
+        <option>Not sure</option>
+        <option>Small driveway</option>
+        <option>Large driveway</option>
+        <option>Small lot</option>
+        <option>Large lot</option>
+        <option>Road or multiple lots</option>
+      </select>
+    </label>
+  </div>
+  <fieldset class="checks">
+    <legend>Services needed <span class="optional">(check all that apply)</span></legend>
+    <label class="check"><input type="checkbox" name="services" value="Crack filling & sealing"> Crack filling &amp; sealing</label>
+    <label class="check"><input type="checkbox" name="services" value="Sealcoating"> Sealcoating</label>
+    <label class="check"><input type="checkbox" name="services" value="Repair"> Repair</label>
+    <label class="check"><input type="checkbox" name="services" value="Resurfacing"> Resurfacing</label>
+    <label class="check"><input type="checkbox" name="services" value="Striping"> Striping</label>
+    <label class="check"><input type="checkbox" name="services" value="Not sure"> Not sure</label>
+  </fieldset>
+  <div class="form-row">
+    <label>Timeframe
+      <select name="timeframe">
+        <option>As soon as possible</option>
+        <option>Within a month</option>
+        <option>1&ndash;3 months</option>
+        <option>Just getting prices</option>
+      </select>
+    </label>
+    <!-- CONFIRM: military/veteran discount -->
+    <fieldset class="checks checks--inline">
+      <legend>Are you a veteran or active military?</legend>
+      <label class="check"><input type="radio" name="military" value="Yes"> Yes</label>
+      <label class="check"><input type="radio" name="military" value="No"> No</label>
+    </fieldset>
+  </div>
+  <label>Anything we should know? <span class="optional">(optional)</span>
+    <textarea name="message" rows="3" placeholder="Cracks, potholes, faded lines, a job another contractor left unfinished..."></textarea>
+  </label>
+  <button class="btn btn--primary btn--block btn--lg" type="submit">Request My Free Quote</button>
+  <p class="lead-form__error" role="alert" hidden>Sorry, your request didn't go through. Please call us at <a href="tel:{{phoneHref}}">{{phone}}</a> or <a href="{{facebookUrl}}" rel="noopener" target="_blank">message us on Facebook</a>.</p>
+  <p class="lead-form__fine">No obligation. We'll never share your info.</p>
+  <p class="lead-form__alt">Prefer Facebook? <a href="{{facebookUrl}}" rel="noopener" target="_blank">Message us on Facebook &rarr;</a></p>
+</form>
