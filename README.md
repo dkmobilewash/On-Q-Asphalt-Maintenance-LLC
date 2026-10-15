@@ -25,6 +25,7 @@ All messaging comes from the company's real Google reviews, which are shown word
 - **Reviews:** `src/data/reviews.json`. Never edit `text` or `reply` — they're verbatim from Google. Short excerpts live in `excerpts` and must be exact substrings of the review (the build fails otherwise); the site joins them with "…".
 - **Shared pieces:** `src/partials/` — `layout`, `header`, `footer`, `cta`, `packages` (maintenance levels), `quote-form`, `logo`, `stripe`, `reviews-google`.
 - **Page content:** `src/pages/*.html`. The comment at the top sets `title`, `description`, and optionally `crumb`, `parent` (breadcrumb), `service` (adds Service schema), `faq: true` (FAQPage schema from the `<details>` on the page), `robots`, `sitemap: false`.
+- **Logo:** `brand/logo-original.webp` is the original artwork. The site uses `assets/img/logo-mark.svg` (a vector trace of it, also the favicon), plus `logo.png` (512px, for schema and social sharing) and `apple-touch-icon.png`.
 - **Styles:** `assets/css/styles.css`. Colors are CSS variables at the top.
 
 ### Markers you can use in pages
