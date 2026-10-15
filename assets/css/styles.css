@@ -440,3 +440,9 @@ a.feature h3::after { content: " →"; color: var(--orange-ink); }
 .page-hero .lead-form a:not(.btn), .hero .lead-form a:not(.btn) { color: var(--ink); }
 .page-hero .lead-form .lead-form__error a, .hero .lead-form .lead-form__error a { color: #9b2c1f; }
 .split__copy .tagline-big { color: var(--asphalt); }
+.gallery-card--photo { margin: 0; display: flex; flex-direction: column; }
+.gallery-card--photo img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; }
+.gallery-card--photo .chip { display: inline-block; margin-bottom: .5rem; background: var(--stripe-soft); border-color: var(--stripe); }
+.gallery-card--more { display: flex; flex-direction: column; }
+.gallery-card--more .gallery-card__ph { aspect-ratio: 16 / 10; }
+.gallery-card--more .gallery-card__ph { background: var(--asphalt); font-size: 1rem; }
