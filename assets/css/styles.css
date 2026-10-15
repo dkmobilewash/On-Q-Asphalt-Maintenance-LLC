@@ -446,3 +446,10 @@ a.feature h3::after { content: " →"; color: var(--orange-ink); }
 .gallery-card--more { display: flex; flex-direction: column; }
 .gallery-card--more .gallery-card__ph { aspect-ratio: 16 / 10; }
 .gallery-card--more .gallery-card__ph { background: var(--asphalt); font-size: 1rem; }
+
+/* ---------- Page-hero photos ---------- */
+.page-hero__photo { width: 460px; max-height: none; aspect-ratio: 4 / 3; object-fit: cover; box-shadow: var(--shadow-lg); border-bottom: 6px solid var(--stripe); }
+.page-hero__photo--square { width: 400px; aspect-ratio: 1 / 1; object-position: center 65%; }
+@media (max-width: 960px) {
+  .page-hero .page-hero__photo { display: block; width: 100%; aspect-ratio: 16 / 10; order: 2; }
+}
